@@ -114,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "김태훈"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "신구대학교 IT소프트웨어전공"
+  location         : "Seoul, South Korea"
+  email            : "xognswldk@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
